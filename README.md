@@ -1,7 +1,8 @@
 # 🎧 Spotify Data Analytics Dashboard 🎵
 
 This project showcases an end-to-end Spotify analytics solution — from **data extraction using Python**, **database management with MySQL**, to building an **interactive dashboard in Power BI**. It explores track-level insights such as popularity, audio features, and streaming trends by integrating the Spotify Web API.
-![Dashboard Preview](![Untitled design](https://github.com/user-attachments/assets/52ed1c3c-44f5-40de-a6cb-784b1d72a27b)
+
+(![Untitled design](https://github.com/user-attachments/assets/52ed1c3c-44f5-40de-a6cb-784b1d72a27b)
 ---
 
 ## 🚀 What This Project Covers
